@@ -1,0 +1,1 @@
+Written in Python, this program uses lynx to scrape information on a job ranking website. From this scraped information, a regular expression is used to sift through and find the desired information to be outputted. The desired information is then printed in two separate lists: one in alphabetical order and the other in order by rank.
